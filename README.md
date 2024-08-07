@@ -3,8 +3,8 @@
 
 - <b>Linux File Permissions Lab</b>
   - [Bash Shell: Managing Authorization](https://github.com/Mike400cyber/Linux-File-Permissions-Lab)
-- <b>Phishing Analysis</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Phishing Email Analysis Lab</b>
+  - [Phishing Analysis Challenge](https://github.com/Mike400cyber/Phishing-Analysis-Lab) <b><i>
 
 <h2>📺 Certifications</h2>
 
