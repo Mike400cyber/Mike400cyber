@@ -4,7 +4,7 @@
 - <b>Linux File Permissions Lab</b>
   - [Bash Shell: Managing Authorization](https://github.com/Mike400cyber/Linux-File-Permissions-Lab)
 - <b>Phishing Email Analysis Lab</b>
-  - [Phishing Analysis Challenge](https://github.com/Mike400cyber/Phishing-Analysis-Lab) <b><i>
+  - [Phishing Analysis Challenge](https://github.com/Mike400cyber/Phishing-Analysis-Lab)
 
 <h2>📺 Certifications</h2>
 
