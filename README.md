@@ -8,10 +8,10 @@
 
 <h2>📺 Certifications</h2>
 
-- [CompTIA A+]
+- [CompTIA A+](https://www.linkedin.com/in/michael-simmons-ga/)
 - [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/professional-cert/83UG9NMBBP3E)
-- [ITIL 4 Foundations in IT Service Management]
-- [Google IT Specialist](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Google IT Support Professional](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [ITIL 4 Foundations in IT Service Managment](https://www.linkedin.com/in/michael-simmons-ga/)
 
 
 <h2> 🤳 Connect with me:</h2>
