@@ -9,7 +9,7 @@
 <h2>📺 Certifications</h2>
 
 - [CompTIA A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Google Cybersecurity Professional](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/professional-cert/83UG9NMBBP3E)
 - [ITIL 4 Foundations](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Google IT Specialist](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
